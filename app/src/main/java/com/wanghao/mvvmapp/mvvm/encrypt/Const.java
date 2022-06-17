@@ -1,0 +1,11 @@
+package com.wanghao.mvvmapp.mvvm.encrypt;
+
+
+
+public class Const {
+    public static final String AES_KEY = "1234567890123456";
+    public static final String RSA_PUBLIC_KEY = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCbUnP6ul9nkvANPMQUcT8EQXUzmSJ7EiO49oZt3mH2xnPFF0f3FVDiofivKcPlqOYS1nawo1Zc09B1jzHK59ghWbOkItMKhn0A6p4q0hfjRpt2IRHeuZc93NEXjWPI1ZfRvaTO1TGxYBEuofzKrzgAstTHpGy1LqDNOvs1+d5C+QIDAQAB";
+    public static final String RSA_PRIVATE_KEY = "MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBAJtSc/q6X2eS8A08xBRxPwRBdTOZInsSI7j2hm3eYfbGc8UXR/cVUOKh+K8pw+Wo5hLWdrCjVlzT0HWPMcrn2CFZs6Qi0wqGfQDqnirSF+NGm3YhEd65lz3c0ReNY8jVl9G9pM7VMbFgES6h/MqvOACy1MekbLUuoM06+zX53kL5AgMBAAECgYEAkfVPy+Pr15b7QlVCJbut7j/c9VoITwLi0uPHu+Nox9AB5spT9Frxoad33JMw5dZsLnOfIaq8c4sQsAiaUATC0kn0x2hpwgs+dyuMJPyAwk9s9c5IEhJnFkWeZxl5mEkXBF+b/DhcdmfbgPE72UU2TJ7lEzg7/V97xe4FqxzzbSkCQQDk3qXSYavHsSJs9bacZrJqaa3twwAbH5jyefo+HMO5JHQjmzumnqWnFce+P/oHzQ0FO9EjYzg0SNBafi1RVzGHAkEArbvn2rN8b+6AcpZR3zlDnWNvFP9OpHtIYeDgNJRjGgJlCAyrFP++HS+bnHqFPtOSFH71Ips+VDePGNKosS4HfwJAMhCCNYMoEIavASa+y3erj5uOcHQ3kbdXvbLxCqVAKz/OJ/vNEKWjluksyHE2QH6aWoq7NQJ/SPCkoyb2wtRQAQJAM2VvheerXIG2Ri/qMJuEQT91UUTmQwqlsy8PpP5xAvTKZsM4qZGu8HtxEa29VYTJpn6YjpBWtBtrnfBUL3ZqiQJBANs6li7vfuTfSB6un9/9/OSbkVdNXkZpksAofR9gyahgz6rNFEYk0ZHJBEnoba5r/orezlIM84yr9/LuVV6htyM=";
+    public static final String APP_SERVER_URL_SANDBOX = "http://192.168.31.209:3041/"; // 内网
+    public static final String URL_GITHUB_TEST = "https://api.github.com/"; // github测试
+}
